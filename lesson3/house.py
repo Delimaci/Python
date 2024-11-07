@@ -3,7 +3,7 @@
 name = input("What's your name? ")
 
 match name:
-    case "Harry":
+    case "Harry" :
         print("Gryffindor")
     case "Hermoine":
         print("Gryffindor")
